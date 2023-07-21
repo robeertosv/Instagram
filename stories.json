@@ -1,0 +1,38 @@
+[
+    {
+        "username": "robeertosv",
+        "pic": "https://fotografias.lasexta.com/clipping/cmsimages02/2019/11/14/66C024AF-E20B-49A5-8BC3-A21DD22B96E6/default.jpg?crop=1300,731,x0,y0&width=1280&height=720&optimize=low",
+        "is_user": true,
+        "id": 1
+    },
+    {
+        "username": "dummy1",
+        "pic": "https://cdn.pixabay.com/photo/2020/10/11/19/51/cat-5646889_640.jpg",
+        "is_user": false,
+        "is_bf": true
+    },
+    {
+        "username": "dummy2",
+        "pic": "https://cdn.pixabay.com/photo/2020/06/21/05/59/lady-5323329_640.png",
+        "is_user": false,
+        "is_bf": true
+    },
+    {
+        "username": "dummy3",
+        "pic": "https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295430_640.png",
+        "is_user": false,
+        "is_bf": false
+    },
+    {
+        "username": "dummy4",
+        "pic": "https://cdn.pixabay.com/photo/2017/11/29/09/15/paint-2985569_1280.jpg",
+        "is_user": false,
+        "is_bf": false
+    },
+    {
+        "username": "dummy5",
+        "pic": "https://cdn.pixabay.com/photo/2017/11/29/09/15/paint-2985569_1280.jpg",
+        "is_user": false,
+        "is_bf": false
+    }
+]
