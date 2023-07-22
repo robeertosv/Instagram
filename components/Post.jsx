@@ -10,7 +10,6 @@ dia = dia[0];
 
 const meses = ['ENERO', 'FEBRERO', 'MARZO', 'ABRIL', 'MAYO', 'JUNIO', 'JULIO', 'AGOSTO', 'SEPTIEMBRE', 'OCTUBRE', 'NOVIEMBRE', 'DICIEMBRE']
 const Post = ({username, time, post_pic, likes, profile_pic, bio}) => { 
-  const hours = 5
   let diapic = time.split('T')
   let hourMsg;
 
